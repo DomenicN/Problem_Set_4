@@ -18,6 +18,10 @@ Code can be run in the terminal from the master directory by typing the followin
 
 <code>
     cd code  
+</code>
+
+And then type:
+<code>
     python3 generate_figures.py
 </code>
 
