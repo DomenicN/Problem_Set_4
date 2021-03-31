@@ -17,8 +17,8 @@ The repository has 3 directories: code, data, figures. The code directory contai
 Code can be run in the terminal from the master directory by typing the following.
 
 <code>
-  cd code  <br/>
-  python3 generate_figures.py
+    cd code  
+    python3 generate_figures.py
 </code>
 
 The following dependencies are required:
